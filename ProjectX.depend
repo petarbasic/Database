@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1548447880 source:c:\users\petar\documents\c\projectx\functions2.c
+	"heder.h"
+
+1548450522 c:\users\petar\documents\c\projectx\heder.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Math.h>
+	<conio.h>
+	<ctype.h>
+
+1548450799 source:c:\users\petar\documents\c\projectx\main.c
+	"heder.h"
+
+1548451330 source:c:\users\petar\documents\c\projectx\functions.c
+	"heder.h"
+
+1548450799 source:c:\users\petar\desktop\ra1052016\main.c
+	"heder.h"
+
+1548450522 c:\users\petar\desktop\ra1052016\heder.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Math.h>
+	<conio.h>
+	<ctype.h>
+

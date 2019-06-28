@@ -1,0 +1,4 @@
+Student:
+Petar Basic
+RA 105/2016
+projekat: MC4/p20 indeks-sekvencijalna datoteka
